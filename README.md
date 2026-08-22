@@ -1,4 +1,6 @@
-[![MasterHead](https://images.pexels.com/photos/16023919/pexels-photo-16023919.jpeg)]
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03WG_ylhero-T6co1bl1pvRzMyVF62WhACoLeSizvbbziZacM4uN9UYc&s=10" width="100%" alt="MasterHead">
+</p>
 <h1 align="center">Hi 👋, I'm Jafar</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
