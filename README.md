@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Jafar</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-- 🌱 I’m currently learning **HTML and CSS**
+- 🌱 I’m currently learning **HTML, CSS and JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
